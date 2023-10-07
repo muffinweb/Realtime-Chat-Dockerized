@@ -5,8 +5,3 @@
 
 ## SocketIO based realtime chat app
 SocketIO based realtime chat app
-
-## Demo
-  http://ugurcengiz.com:3000
-  
-# ![GitHub Logo](https://ugurcengiz.com/realtimechat.png)
